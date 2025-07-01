@@ -1,0 +1,8 @@
+Flask==2.3.3
+gunicorn==22.0.0
+Werkzeug==3.0.3
+python-dotenv==1.0.1
+flask-limiter==3.5.0
+redis==5.0.8
+Flask-Cors==4.0.1
+watchdog==5.0.3  # 用于文件系统监控和热重载
